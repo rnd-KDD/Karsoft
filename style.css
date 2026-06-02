@@ -829,7 +829,7 @@ header a {
     display: flex;
     gap: 8px;
     position: absolute;
-    top: 210px;
+    top: 235px;
     left: 49%;
     z-index: 20;
 }
